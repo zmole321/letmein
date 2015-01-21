@@ -1,6 +1,6 @@
 #Demonstration of the Telstra SMS API
 
-A sample application to illustrate how you might use the Telstra API to contact someone named Frank to open a door for you. 
+A sample application to illustrate how you might use the Telstra API to send an SMS to someone named Frank, asking him to open a door for you. 
 
 The application is written in Ruby, making use of the Sinatra framework. 
 
